@@ -41,6 +41,7 @@ body {
     text-decoration: none;
     color: #fff;
 
+    font-size: 14pt;
 
     padding: 12px;
     
@@ -55,22 +56,11 @@ footer {
     background-color: #023A4B;
 }
 
-.text-extra-footer {
-    /* margin-bottom: 2px; */
-    margin-top: 20px;
-
-    /* font-size: 24pt; */
-
-    text-align: end;
-}
 .img-dev {
+    margin-top: 20px;
     width: 90px;
     padding: 15px 0 10px 0;
 
-    display: block;
-
-    margin-left: 0;
-    margin-right: auto;
 
     opacity: 0.3;
 }
